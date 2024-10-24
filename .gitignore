@@ -1,0 +1,38 @@
+## Ignore Visual Studio temporary files and build results
+
+# Directories
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+[Ll]og/
+[Ll]ogs/
+
+# Build results
+*.lib
+*.dll
+*.a
+*.so
+*.exe
+
+# Temporary build files
+*.obj
+*.o
+
+# IDE- or system-specific files and directories
+.vs
+.idea
+*.sln
+*.vcxproj*
+cmake-build*/
+_result/
+
